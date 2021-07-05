@@ -1,6 +1,6 @@
-<h1 align="center"><b> THE X-Troid Public Bot  </b></h1>
+<h1 align="center"><b> Tech-BATTA Public Bot  </b></h1>
 
-![logo](https://telegra.ph/file/569fd05fb4c587a360d38.jpg)
+![logo](https://ibb.co/tHRDxJP)
 
 
 
