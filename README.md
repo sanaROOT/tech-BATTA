@@ -1,7 +1,7 @@
 <h1 align="center"><b> Tech-BATTA Public Bot  </b></h1>
 
 <div align="center">
-  <img src="https://i.hizliresim.com/mm1NBs.jpg" width="200" height="200">
+  <img src="20210704_014207.png" width="200" height="200">
   <h1>🐺 WhatsAsena</h1>
 </div>
 
