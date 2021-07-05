@@ -6,12 +6,12 @@
 
 
 <p align="center">
-    Project of X-Troid - Makes it easy and fun to use Whatsapp. Also first Sinhala userbot for Whatsapp.
+    Project of Tech-BATTA - Makes it easy and fun to use Whatsapp. Also userbot for Whatsapp.
     <br>
-        <a href="http://t.me/danumabots">Telegram Channel</a> |
-        <a href="https://t.me/danuma01">Telegram Group</a> |
-        <a href="https://chat.whatsapp.com/JigWG8oj1hj1YXLgJaqxta">New Support Group</a> |
-        <a href="https://t.me/unofficialplugin">All Groups & channels </a> |
+        <a href="https://chat.whatsapp.com/IbtO1YNOe4z0NJMEDYjL3y">WhatsApp Group</a> |
+        <a href="https://wa.me/message/LNLGZLLC2OUPF1">BOT's Number</a> |
+        <a href="https://youtube.com/channel/UCrIShlJotolBU2qJEC20Gtg">YouTube Channel</a> |
+        <a href="https://t.me/AsenaSupport">Asena Support Group</a> |
     <br>
 </p>
 
