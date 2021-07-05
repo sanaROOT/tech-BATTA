@@ -15,9 +15,60 @@
     <br>
 </p>
 
+----
+
+<p align="center">
+  <a href="https://github.com/sanaROOT/tech-BATTA">
+    <img src="https://img.shields.io/docker/pulls/fusuf/whatsasena?style=flat-square"/></a>
+  
+  </a>
+  <a href="https://github.com/sanaROOT/tech-BATTA">
+    <img src="https://img.shields.io/docker/image-size/fusuf/whatsasena?style=flat-square">
+    
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/sanaROOT/tech-BATTA">
+    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FBlackAmda%2FQueenAmdi&count_bg=%2379C83D&title_bg=%23555555&icon=gitpod.svg&icon_color=%23E7E7E7&title=Views&edge_flat=false" alt="Views"/></a>
+  
+  </a>
+  <a href="https://github.com/sanaROOT/tech-BATTA/fork">
+    <img src="https://img.shields.io/github/forks/sanaROOT/tech-BATTA?label=Fork&style=social">
+    
+  </a>
+  <a href="https://github.com/sanaROOT/tech-BATTA/stargazers">
+    <img src="https://img.shields.io/github/stars/sanaROOT/tech-BATTA?style=social">
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/sanaROOT/tech-BATTA">
+    <img src="https://img.shields.io/github/repo-size/phaticusthiccy/WhatsAsenaDuplicated?color=purple&label=Repo%20Boyutu&style=plastic">
+
+  </a>
+  <a href="https://github.com/phaticusthiccy/WhatsAsenaDuplicated/blob/master/LICENSE">
+    <img src="https://img.shields.io/github/license/phaticusthiccy/WhatsAsenaDuplicated?color=purple&label=License&style=plastic">
+
+  </a>
+  <a href="https://github.com/phaticusthiccy/WhatsAsenaDuplicated">
+    <img src="https://img.shields.io/github/languages/top/phaticusthiccy/WhatsAsenaDuplicated?color=purple&label=Javascript&style=plastic">
+
+  </a>
+  <a href="https://github.com/phaticusthiccy">
+    <img src="https://img.shields.io/static/v1?label=Author&message=Sandun%20Dilaksha&color=purple&style=plastic">
+
+  </a>
+  <a href="https://wa.me/+94713441264">
+    <img src="https://img.shields.io/badge/Contact%20Me%20On%20Whatsapp-Tech%20BATTA%20Bot-purple&style=plastic">
+
+  </a>
+</p>
+
+
 [![Run on Repl.it](https://repl.it/badge/github/phaticusthiccy/WhatsAsenaDuplicated)](https://replit.com/@sanaROOT)
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?button-url=https://github.com/sanaROOT/tech-BATTA)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?button-url=https%3A%2F%2Fgithub.com%2Fphaticusthiccy%2FWhatsAsenaDuplicated%2Fwiki%2F%25F0%259F%2587%25AC%25F0%259F%2587%25A7-How-to-Setup-WhatsAsena&template=https%3A%2F%2Fgithub.com%2Fphaticusthiccy%2FWhatsAsenaDuplicated)
 
 ### ⚠️ Warning! 
 ```
