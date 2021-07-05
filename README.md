@@ -1,6 +1,6 @@
 <h1 align="center"><b> Tech-BATTA Public Bot  </b></h1>
 
-![logo](https://ibb.co/tHRDxJP)
+![logo](<a href="https://ibb.co/tHRDxJP"><img src="https://i.ibb.co/L0K1JZh/20210704-014207.png" alt="20210704-014207" border="0"></a>)
 
 
 
