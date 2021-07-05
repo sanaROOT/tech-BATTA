@@ -15,9 +15,9 @@
     <br>
 </p>
 
-[![Run on Repl.it](https://repl.it/badge/github/phaticusthiccy/WhatsAsenaDuplicated)](https://replit.com/@lasindu123/XTROID)
+[![Run on Repl.it](https://repl.it/badge/github/phaticusthiccy/WhatsAsenaDuplicated)](https://replit.com/@sanaROOT)
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/lasiyaWA/X-Troid)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?button-url=https%3A%2F%2Fgithub.com%2Fphaticusthiccy%2FWhatsAsenaDuplicated%2Fwiki%2F%25F0%259F%2587%25AC%25F0%259F%2587%25A7-How-to-Setup-WhatsAsena&template=https%3A%2F%2Fgithub.com%2Fphaticusthiccy%2FWhatsAsenaDuplicated)
 
 ### ⚠️ Warning! 
 ```
