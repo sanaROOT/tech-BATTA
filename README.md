@@ -102,9 +102,19 @@
 | Unvoice|✅|1.3|
 
 
-[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsasena)](https://repl.it/@phaticusthiccy/WhatsAsena-QR)
+## 🔎 What is WhatsAsena?
+**WhatsAsena,** is a WhatsApp helper bot written by [Yusuf Usta](https://github.com/Quiec) and edited by [Phaticusthiccy](https://github.com/phaticusthiccy). Does not log into your account It is written on WhatsApp Web API.
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?button-url=https%3A%2F%2Fgithub.com%2Fphaticusthiccy%2FWhatsAsenaDuplicated%2Fwiki%2F%25F0%259F%2587%25AC%25F0%259F%2587%25A7-How-to-Setup-WhatsAsena&template=https%3A%2F%2Fgithub.com%2Fphaticusthiccy%2FWhatsAsenaDuplicated)
+## Setup
+### Very Simple Method
+`Soon as Possible...`
+
+### Simple Method
+
+[![Run on Repl.it](https://repl.it/badge/github/phaticusthiccy/WhatsAsenaDuplicated)](https://repl.it/@phaticusthiccy/WhatsAsena-QR)
+
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/phaticusthiccy/WhatsAsenaDuplicated)
+
 
 ### ⚠️ Warning! 
 ```
