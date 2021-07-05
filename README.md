@@ -17,7 +17,7 @@
 
 [![Run on Repl.it](https://repl.it/badge/github/phaticusthiccy/WhatsAsenaDuplicated)](https://replit.com/@sanaROOT)
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?button-url=https%3A%2F%2Fgithub.com%2Fphaticusthiccy%2FWhatsAsenaDuplicated%2Fwiki%2F%25F0%259F%2587%25AC%25F0%259F%2587%25A7-How-to-Setup-WhatsAsena&template=https%3A%2F%2Fgithub.com%2Fphaticusthiccy%2FWhatsAsenaDuplicated)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?button-url=https://github.com/sanaROOT/tech-BATTA)
 
 ### ⚠️ Warning! 
 ```
