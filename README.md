@@ -66,7 +66,7 @@
 </p>
 
 
-☛ Tech-BATTA Bot Features
+☛ <b> Tech-BATTA Bot Features </b>
 
 | All Features 📢|Available ☑️|Version 🔎|
 | ------------- | ------------ | ---------- |
