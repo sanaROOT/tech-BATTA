@@ -1,9 +1,6 @@
 <h1 align="center"><b> Tech-BATTA Public Bot  </b></h1>
 
-<div align="center">
-  <img src="20210704_014207.png" width="200" height="200">
-  <h1>🐺 WhatsAsena</h1>
-</div>
+![logo](https://www.linkpicture.com/view.php?img=LPic60e2ff792b8f9455483479)
 
 
 
