@@ -8,7 +8,7 @@
             "COMMAND": "Command",
             "DESC": "Description",
             "EXAMPLE": "Example",
-            "NOT_FOUND": "*I couldnt find a command like this*",
+            "NOT_FOUND": "*ɪ ᴄᴏᴜʟᴅɴ'ᴛ ғɪɴᴅ ᴀ ᴄᴏᴍᴍᴀɴᴅ ʟɪᴋᴇ ᴛʜɪs*",
             "WARN": "Warn"
         },
         "_plugin": {
@@ -71,10 +71,10 @@
             "MUST_TEXT": "```Please reply to any message```"
         },
         "heroku": {
-            "RESTART_DESC": "Restart Ｘ-Ｔｒｏｉｄ",
-            "RESTART_MSG": "```Restarting...```",
-            "SHUTDOWN_DESC": "Shutdown Ｘ-Ｔｒｏｉｄ",
-            "SHUTDOWN_MSG": "```Shutting down ⛔```",
+            "RESTART_DESC": "ʀᴇsᴛᴀʀᴛ 𝘁𝗲𝗰𝗵-𝗕𝗔𝗧𝗧𝗔",
+            "RESTART_MSG": "*ʀᴇsᴛᴀʀᴛɪɴɢ...*",
+            "SHUTDOWN_DESC": "sʜᴜᴛᴅᴏᴡɴ 𝘁𝗲𝗰𝗵-𝗕𝗔𝗧𝗧𝗔",
+            "SHUTDOWN_MSG": "*sʜᴜᴛᴛɪɴɢ ᴅᴏᴡɴ 😴*",
             "DYNO_DESC": "Check heroku dyno usage",
             "DYNO_TOTAL": "```Total Quota```",
             "DYNO_USED": "```Quota used```",
@@ -118,7 +118,7 @@
         "memes": {
             "MEMES_DESC": "Photo memes you replied to.",
             "NEED_REPLY": "*Reply to a photo!*",
-            "DOWNLOADING": "```Downloading media & making meme...```"
+            "DOWNLOADING": "*ᴅᴏᴡɴʟᴏᴀᴅɪɴɢ ᴍᴇᴅɪᴀ & ᴍᴀᴋɪɴɢ ᴍᴇᴍᴇ...*"
         },
         "ocr": {
             "OCR_DESC": "Reads the text on the photo you have replied.",
@@ -138,9 +138,9 @@
         },
         "removebg": {
             "REMOVEBG_DESC": "Removes the background of the photos.",
-            "NEED_PHOTO": "*Give me a photo!*",
+            "NEED_PHOTO": "*ɢɪᴠᴇ ᴍᴇ ᴀ ᴘʜᴏᴛᴏ !*",
             "NO_API_KEY": "*You don't have an API key!*\nYou can get it here: remove.bg.",
-            "RBGING": "```Removing background...```"
+            "RBGING": "ʀᴇᴍᴏᴠɪɴɢ ʙᴀᴄᴋɢʀᴏᴜɴᴅ..."
         },
         "scrapers": {
             "TRANSLATE_DESC": "It translates with Google Translate. You must reply any message.",
@@ -174,8 +174,8 @@
         },
         "sticker": {
             "STICKER_DESC": "It converts your replied photo or video to sticker.",
-            "NEED_REPLY": "*Reply to a photo or video!*",
-            "DOWNLOADING": "```Media downloading & converting to sticker...```"
+            "NEED_REPLY": "*ʀᴇᴘʟʏ ᴛᴏ ᴀ ᴘʜᴏᴛᴏ ᴏʀ ᴠɪᴅᴇᴏ !*",
+            "DOWNLOADING": "*ᴍᴇᴅɪᴀ ᴅᴏᴡɴʟᴏᴀᴅɪɴɢ & ᴄᴏɴᴠᴇʀᴛɪɴɢ ᴛᴏ sᴛɪᴄᴋᴇʀ...*"
         },
         "system_stats": {
             "ALIVE_DESC": "Does bot work?",
@@ -196,14 +196,14 @@
         },
         "updater": {
             "UPDATER_DESC": "Checks the update.",
-            "UPDATE": "*Ｘ-Ｔｒｏｉｄ is completely up-to-date!*",
+            "UPDATE": "𝘁𝗲𝗰𝗵-𝗕𝗔𝗧𝗧𝗔 is completely up-to-date!",
             "NEW_UPDATE": "*New update available for Ｘ-Ｔｒｏｉ ｄ!*\n\nChanges:\n```",
             "UPDATE_NOW_DESC": "It makes updates.",
             "UPDATING": "_Updating..._",
             "INVALID_HEROKU": "*❌ Your Heroku information is wrong!*",
             "UPDATED": "*✅ Successfully Updated!*",
             "UPDATED_LOCAL": "*✅ Successfully Updated!*",
-            "AFTER_UPDATE": "*💬 Ｘ-Ｔｒｏｉｄ Restarting Automatically!*",
+            "AFTER_UPDATE": "💬 𝘁𝗲𝗰𝗵-𝗕𝗔𝗧𝗧𝗔 Restarting Automatically!",
             "IN_AF": "*Please check* ```HEROKU_APP_NAME``` *and* ```app name``` *They must be same.*\n*If these two values ​​are the same, please restore* ```HEROKU_API_KEY```\n\n_To access these settings, use Heroku >> App >> Settings >> Reavel Config Vars_\n_To renew your API key, follow these steps, Heroku >> Account >> API Key then replace old api key in config vars._"
         },
         "whois": {
