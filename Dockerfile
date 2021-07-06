@@ -1,5 +1,5 @@
 FROM fusuf/whatsasena:latest
-#lasiyaWhen we speak of free software, we are referring to freedom,
+#Sandun when we speak of free software, we are referring to freedom,
 #not
 #price.  Our General Public Licenses are designed to make sure that you
 #have thhttps://www.youtube.com/watch?v=mDnJ7q3S3eYe freedom to distribute copies of free software (and charge for
@@ -60,7 +60,7 @@ FROM fusuf/whatsasena:latest
     #API_HASH = os.environ.get("API_HASH", None)
     #BOT_TOKEN = os.environ.get("BOT_TOKEN", None)
     #REM_BG_API_KEY = os.environ.get("REM_BG_API_KEY", None)
-    #STRINGSESSION =https://github.com/sanaROOT/tech-BATTA/edit/main/Dockerfile os.environ.get("STRINGSESSION", None)
+    #STRINGSESSION =https://github.com/sanaROOT/tech-BATTA/blob/main/Dockerfile os.environ.get("STRINGSESSION", None)
     #ASSISTANT_START_PIC = os.environ.get(
      #   "ASSISTANT_START_PIC", "https://telegra.ph//file/92c1a600394c723db90fc.jpg"
     #3)
@@ -139,7 +139,7 @@ FROM fusuf/whatsasena:latest
     #STRINGSESSION_2 = os.environ.get("STRINGSESSION_2", None)
     #S#TRINGSESSION_3 = os.environ.get("STRINGSESSION_3", None)
     #STRINGSESSION_4 = os.environ.get("STRINGSESSION_4", None)
-    #LOAD_UNOFhttps://github.com/sanaROOT/tech-BATTA/edit/main/DockerfileFICIAL_PLUGINS = bool(strtobool(str(os.environ.get("LOAD_UNOFFICIAL_PLUGINS", False))))
+    #LOAD_UNOFhttps://github.com/sanaROOT/tech-BATTA/blob/main/DockerfileFICIAL_PLUGINS = bool(strtobool(str(os.environ.get("LOAD_UNOFFICIAL_PLUGINS", False))))
     #PLUGIN_CHANNEL = os.environ.get("PLUGIN_CHANNEL", False)
     #TZ = os.environ.get("TZ", "Asia/Kolkata")
     #MONGO_DB = os.environ.get("MONGO_DB", None)
@@ -175,7 +175,7 @@ FROM fusuf/whatsasena:latest
     #HEROKU_APP_NAME = os.environ.get("HEROKU_APP_NAME", None)
     #LYDIA_API_KEY = os.environ.get("LYDIA_API_KEY", None)
     #HEROKU_API_KEY = os.environ.get("HEROKU_API_KEY", None)
-    #FBAN_GROUP =https://github.com/sanaROOT/tech-BATTA/edit/main/Dockerfile int(os.environ.get("FBAN_GROUP", False))
+    #FBAN_GROUP =https://github.com/sanaROOT/tech-BATTA/blob/main/Dockerfile int(os.environ.get("FBAN_GROUP", False))
     #UPSTREAM_REPO = os.environ.get(    #API_ID = int(os.environ.get("API_ID", 1))
     #API_HASH = os.environ.get("API_HASH", None)
     #BOT_TOKEN = os.environ.get("BOT_TOKEN", None)
@@ -214,7 +214,7 @@ FROM fusuf/whatsasena:latest
     #LOAD_UNOFFICIAL_PLUGINS = bool(strtobool(str(os.environ.get("LOAD_UNOFFICIAL_PLUGINS", False))))
     #PLUGIN_CHANNEL = os.environ.get("PLUGIN_CHANNEL", False)
     #TZ = os.environ.get("TZ", "Asia/Kolkata")
-    #MONGO_DB = oshttps://github.com/sanaROOT/tech-BATTA/edit/main/Dockerfile.environ.get("MONGO_DB", None)
+    #MONGO_DB = oshttps://github.com/sanaROOT/tech-BATTA/blob/main/Dockerfile.environ.get("MONGO_DB", None)
     #LOG_GRP = int(os.environ.get("LOG_GRP", False))
     #COMMAND_HANDLER = os.environ.get("COMMAND_HANDLER", ".")
     #SUDO_USERS = set(int(x) for x in os.environ.get("SUDO_USERS", "").split())
@@ -254,7 +254,7 @@ FROM fusuf/whatsasena:latest
     #REM_BG_API_KEY = os.environ.get("REM_BG_API_KEY", None)
     #STRINGSESSION = os.environ.get("STRINGSESSION", None)
     #ASSISTANT_START_PIC = os.environ.get(
-     #   "ASSISTANT_STAhttps://github.com/sanaROOT/tech-BATTA/edit/main/DockerfileRT_PIC", "https://telegra.ph//file/92c1a600394c723db90fc.jpg"
+     #   "ASSISTANT_STAhttps://github.com/sanaROOT/tech-BATTA/blob/main/DockerfileRT_PIC", "https://telegra.ph//file/92c1a600394c723db90fc.jpg"
     #3)https://studio.youtube.com/
     #STRINGSESSION_2 = os.environ.get("STRINGSESSION_2", None)
     #S#TRINGSESSION_3 = os.environ.get("STRINGSESSION_3", None)
@@ -294,7 +294,7 @@ FROM fusuf/whatsasena:latest
     #CUSTOM_HELP_EMOJI = os.environ.get("CUSTOM_HELP_EMOJI", "✘")
     #HEROKU_APP_NAME = os.environ.get("HEROKU_APP_NAME", None)
     #LYDIA_API_KEY = os.environ.get("LYDIA_API_KEY", None)
-    #HEROKU_API_KEY = https://github.com/sanaROOT/tech-BATTA/edit/main/Dockerfileos.environ.get("HEROKU_API_KEY", None)
+    #HEROKU_API_KEY = https://github.com/sanaROOT/tech-BATTA/blob/main/Dockerfile.environ.get("HEROKU_API_KEY", None)
     #FBAN_GROUP = int(os.environ.get("FBAN_GROUP", False))
     #UPSTREAM_REPO = os.environ.get(    #API_ID = int(os.environ.get("API_ID", 1))
     #API_HASH = os.environ.get("API_HASH", None)
@@ -334,7 +334,7 @@ FROM fusuf/whatsasena:latest
     #LOAD_UNOFFICIAL_PLUGINS = bool(strtobool(str(os.environ.get("LOAD_UNOFFICIAL_PLUGINS", False))))
     #PLUGIN_CHANNEL = os.environ.get("PLUGIN_CHANNEL", False)
     #TZ = os.environ.get("TZ", "Asia/Kolkata")
-    #MONGO_DB = os.envhttps://github.com/sanaROOT/tech-BATTA/edit/main/Dockerfileiron.get("MONGO_DB", None)
+    #MONGO_DB = os.envhttps://github.com/sanaROOT/tech-BATTA/blob/main/Dockerfileiron.get("MONGO_DB", None)
     #LOG_GRP = int(os.environ.get("LOG_GRP", False))
     #COMMAND_HANDLER = os.environ.get("COMMAND_HANDLER", ".")
     #SUDO_USERS = set(int(x) for x in os.environ.get("SUDO_USERS", "").split())
@@ -368,7 +368,7 @@ FROM fusuf/whatsasena:latest
     #LYDIA_API_KEY = os.environ.get("LYDIA_API_KEY", None)
     #HEROKU_API_KEY = os.environ.get("HEROKU_API_KEY", None)
     #FBAN_GROUP = int(os.environ.get("FBAN_GROUP", False))
-    #UPSTRhttps://github.com/sanaROOT/tech-BATTA/edit/main/DockerfileEAM_REPO = os.environ.get(    #API_ID = int(os.environ.get("API_ID", 1))
+    #UPSTRhttps://github.com/sanaROOT/tech-BATTA/blob/main/DockerfileEAM_REPO = os.environ.get(    #API_ID = int(os.environ.get("API_ID", 1))
     #API_HASH = os.environ.get("API_HASH", None)
     #BOT_TOKEN = os.environ.get("BOT_TOKEN", None)
     #REM_BG_API_KEY = os.environ.get("REM_BG_API_KEY", None)
@@ -396,7 +396,7 @@ FROM fusuf/whatsasena:latest
     #API_HASH = os.environ.get("API_HASH", None)
     #BOT_TOKEN = os.environ.get("BOT_TOKEN", None)
     #REM_BG_API_KEY = os.environ.get("REM_BG_API_KEY", None)
-    #STRINGhttps://github.com/sanaROOT/tech-BATTA/edit/main/DockerfileSESSION = os.environ.get("STRINGSESSION", None)
+    #STRINGhttps://github.com/sanaROOT/tech-BATTA/blob/main/DockerfileSESSION = os.environ.get("STRINGSESSION", None)
     #ASSISTANT_START_PIC = os.environ.get(
      #   "ASSISTANT_START_PIC", "https://telegra.ph//file/92c1a600394c723db90fc.jpg"
     #3)
@@ -430,7 +430,7 @@ FROM fusuf/whatsasena:latest
     #LOAD_UNOFFICIAL_PLUGINS = bool(strtobool(str(os.environ.get("LOAD_UNOFFICIAL_PLUGINS", False))))
     #PLUGIN_CHANNEL = os.environ.get("PLUGIN_CHANNEL", False)
     #TZ = os.environ.get("TZ", "Asia/Kolkata")
-    #MONGO_https://github.com/sanaROOT/tech-BATTA/edit/main/DockerfileDB = os.environ.get("MONGO_DB", None)
+    #MONGO_https://github.com/sanaROOT/tech-BATTA/blob/main/DockerfileDB = os.environ.get("MONGO_DB", None)
     #LOG_GRP = int(os.environ.get("LOG_GRP", False))
     #COMMAND_HANDLER = os.environ.get("COMMAND_HANDLER", ".")
     #SUDO_USERS = set(int(x) for x in os.environ.get("SUDO_USERS", "").split())
@@ -470,7 +470,7 @@ FROM fusuf/whatsasena:latest
     #REM_BG_API_KEY = os.environ.get("REM_BG_API_KEY", None)
     #STRINGSESSION = os.environ.get("STRINGSESSION", None)
     #ASSISTANT_START_PIC = os.environ.get(
-     #   "https://github.com/sanaROOT/tech-BATTA/edit/main/DockerfileASSISTANT_START_PIC", "https://telegra.ph//file/92c1a600394c723db90fc.jpg"
+     #   "https://github.com/sanaROOT/tech-BATTA/blob/main/DockerfileASSISTANT_START_PIC", "https://telegra.ph//file/92c1a600394c723db90fc.jpg"
     #3)
     #STRINGSESSION_2 = os.environ.get("STRINGSESSION_2", None)
     #S#TRINGSESSION_3 = os.environ.get("STRINGSESSION_3", None)
@@ -500,7 +500,7 @@ FROM fusuf/whatsasena:latest
     #S#TRINGSESSION_3 = os.environ.get("STRINGSESSION_3", None)
     #STRINGSESSION_4 = os.environ.get("STRINGSESSION_4", None)
     #LOAD_UNOFFICIAL_PLUGINS = bool(strtobool(str(os.environ.get("LOAD_UNOFFICIAL_PLUGINS", False))))
-    #PLUhttps://github.com/sanaROOT/tech-BATTA/edit/main/DockerfileGIN_CHANNEL = os.environ.get("PLUGIN_CHANNEL", False)
+    #PLUhttps://github.com/sanaROOT/tech-BATTA/blob/main/DockerfileGIN_CHANNEL = os.environ.get("PLUGIN_CHANNEL", False)
     #TZ = os.environ.get("TZ", "Asia/Kolkata")
     #MONGO_DB = os.environ.get("MONGO_DB", None)
     #LOG_GRP = int(os.environ.get("LOG_GRP", False))
@@ -528,7 +528,7 @@ FROM fusuf/whatsasena:latest
     #TZ = os.environ.get("TZ", "Asia/Kolkata")
     #MONGO_DB = os.environ.get("MONGO_DB", None)
     #LOG_GRP = int(os.environ.get("LOG_GRP", False))
-    #COMhttps://github.com/sanaROOT/tech-BATTA/edit/main/DockerfileMAND_HANDLER = os.environ.get("COMMAND_HANDLER", ".")
+    #COMhttps://github.com/sanaROOT/tech-BATTA/blob/main/DockerfileMAND_HANDLER = os.environ.get("COMMAND_HANDLER", ".")
     #SUDO_USERS = set(int(x) for x in os.environ.get("SUDO_USERS", "").split())
     #AFS = list(SUDO_USERS)
     #CUSTOM_HELP_EMOJI = os.environ.get("CUSTOM_HELP_EMOJI", "✘")
@@ -562,7 +562,7 @@ FROM fusuf/whatsasena:latest
     #FBAN_GROUP = int(os.environ.get("FBAN_GROUP", False))
     #UPSTREAM_REPO = os.environ.get(    #API_ID = int(os.environ.get("API_ID", 1))
     #API_HASH = os.environ.get("API_HASH", None)
-    #BOThttps://github.com/sanaROOT/tech-BATTA/edit/main/Dockerfile_TOKEN = os.environ.get("BOT_TOKEN", None)
+    #BOThttps://github.com/sanaROOT/tech-BATTA/blob/main/Dockerfile_TOKEN = os.environ.get("BOT_TOKEN", None)
     #REM_BG_API_KEY = os.environ.get("REM_BG_API_KEY", None)
     #STRINGSESSION = os.environ.get("STRINGSESSION", None)
     #ASSISTANT_START_PIC = os.environ.get(
@@ -636,7 +636,7 @@ FROM fusuf/whatsasena:latest
     #API_HASH = os.environ.get("API_HASH", None)
     #BOT_TOKEN = os.environ.get("BOT_TOKEN", None)
     #REM_BG_API_KEY = os.environ.get("REM_BG_API_KEY", None)
-    #STRhttps://github.com/sanaROOT/tech-BATTA/edit/main/DockerfileINGSESSION = os.environ.get("STRINGSESSION", None)
+    #STRhttps://github.com/sanaROOT/tech-BATTA/blob/main/DockerfileINGSESSION = os.environ.get("STRINGSESSION", None)
     #ASSISTANT_START_PIC = os.environ.get(
      #   "ASSISTANT_START_PIC", "https://telegra.ph//file/92c1a600394c723db90fc.jpg"
     #3)
@@ -665,7 +665,7 @@ FROM fusuf/whatsasena:latest
      #   "ASSISTANT_START_PIC", "https://telegra.ph//file/92c1a600394c723db90fc.jpg"
     #3)
     #STRINGSESSION_2 = os.environ.get("STRINGSESSION_2", None)
-    #S#TRhttps://github.com/sanaROOT/tech-BATTA/edit/main/DockerfileINGSESSION_3 = os.environ.get("STRINGSESSION_3", None)
+    #S#TRhttps://github.com/sanaROOT/tech-BATTA/blob/main/DockerfileINGSESSION_3 = os.environ.get("STRINGSESSION_3", None)
     #STRINGSESSION_4 = os.environ.get("STRINGSESSION_4", None)
     #LOAD_UNOFFICIAL_PLUGINS = bool(strtobool(str(os.environ.get("LOAD_UNOFFICIAL_PLUGINS", False))))
     #PLUGIN_CHANNEL = os.environ.get("PLUGIN_CHANNEL", False)
