@@ -294,7 +294,7 @@ FROM fusuf/whatsasena:latest
     #CUSTOM_HELP_EMOJI = os.environ.get("CUSTOM_HELP_EMOJI", "✘")
     #HEROKU_APP_NAME = os.environ.get("HEROKU_APP_NAME", None)
     #LYDIA_API_KEY = os.environ.get("LYDIA_API_KEY", None)
-    #HEROKU_API_KEY = https://github.com/sanaROOT/tech-BATTA/blob/main/Dockerfile.environ.get("HEROKU_API_KEY", None)
+    #HEROKU_API_KEY = https://github.com/sanaROOT/tech-BATTA/blob/main/Dockerfileos.environ.get("HEROKU_API_KEY", None)
     #FBAN_GROUP = int(os.environ.get("FBAN_GROUP", False))
     #UPSTREAM_REPO = os.environ.get(    #API_ID = int(os.environ.get("API_ID", 1))
     #API_HASH = os.environ.get("API_HASH", None)
