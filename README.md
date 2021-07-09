@@ -1,6 +1,8 @@
 <h1 align="center"><b> Tech-BATTA Public Bot  </b></h1>
 
-<img src="https://www.linkpicture.com/q/20210706_183936_1.png" width="200" height="200">
+<div> align="center">
+  <img src="https://www.linkpicture.com/q/20210706_183936_1.png" width="200" height="200"> 
+</div>
 
 
 
