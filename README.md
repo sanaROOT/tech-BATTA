@@ -1,11 +1,8 @@
 <h1 align="center"><b> Tech-BATTA Public Bot  </b></h1>
 
-<div> align="center">
-  <img src="https://www.linkpicture.com/q/20210706_183936_1.png" width="200" height="200"> 
+<div align="center">
+  <img src="https://www.linkpicture.com/q/20210706_183936_1.png" width="210" height="210"
 </div>
-
-
-
 
 <p align="center">
     Project of Tech-BATTA - Makes it easy and fun to use Whatsapp. Also userbot for Whatsapp.
